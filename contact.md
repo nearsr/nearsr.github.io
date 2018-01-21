@@ -5,7 +5,7 @@ title: Contact
 
 ## Contact me
 
-stacia (dot) near (at) gmail (dot) com
+Email: stacia (dot) near (at) gmail (dot) com
 
 ## Links
 
