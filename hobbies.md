@@ -57,9 +57,9 @@ Colorado is a great place to hike and adventure in the outdoors. I find that tim
 
 As a graduate student, I find myself incredibly busy during the semester. Getting out and seeing what the world has to offer outside the bubble of university helps me maintain well rounded interests. Not to mention that I will often get the most inspiration for my software projects away from the computer, where new ideas will have room to sink in.
 
-My [graphic design](/graphics/) hobby has a whole page dedicated to it, since it is my greatest passion outside school. I am interested in 3D art and 2D visual design. These skills will go a long way in allowing me to develop software that is usable, intuitive, and visually appealing.
+My [graphic design](/graphics) hobby has a whole page dedicated to it, since it is my greatest passion outside school. I am interested in 3D art and 2D visual design. These skills will go a long way in allowing me to develop software that is usable, intuitive, and visually appealing.
 
-If you would like to learn more about my interests and skills, don't hesitate to [contact me](/contact/)!
+If you would like to learn more about my interests and skills, don't hesitate to [contact me](/contact)!
 
 
 ![](assets/fondue.jpg)
