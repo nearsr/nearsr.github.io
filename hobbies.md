@@ -3,9 +3,9 @@ layout: default
 title: Hobbies
 ---
 
-## Hobby Photo Album
+# Photo Album
 
-This portion of the webpage exists so you can learn a little bit more about me, and the things I enjoy outside of computer programming.
+This portion of the webpage exists so you can learn a little bit more about me, and the things I enjoy outside of my research.
 
 ## Birds of Prey
 
