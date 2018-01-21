@@ -4,8 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-## Welcome to another page
+## Contact me
 
-_yay_
+Email: stacia (dot) near (at) gmail (dot) com
+
+## Links
+
+![](assets/giticon.png)
 
 [back](./)
