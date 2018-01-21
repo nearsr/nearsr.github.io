@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
 ## Welcome to another page

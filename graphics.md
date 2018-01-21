@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Graphic Design
+permalink: /graphics/
 ---
 
 ## Welcome to another page

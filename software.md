@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Software Projects
+permalink: /software/
 ---
 
 ## Welcome to another page
