@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Wildlife Contributions
 ---
 
 ## Welcome to about page

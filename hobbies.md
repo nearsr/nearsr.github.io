@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: Hobbies
 ---
 
-## Welcome to about page
+## Welcome to hobby page
 
 _yay_
 
