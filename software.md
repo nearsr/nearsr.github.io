@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Software Projects
-permalink: /software/
 ---
 
-## Welcome to another page
+## Welcome to software page
 
 _yay_
 
