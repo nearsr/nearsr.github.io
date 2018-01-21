@@ -15,4 +15,3 @@ Email: stacia (dot) near (at) gmail (dot) com
 
 ![](assets/mirrorlabicon.png) [MirrorLab](http://mirrorlab.mines.edu/)
 
-[back](./)
