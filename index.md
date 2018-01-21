@@ -22,6 +22,10 @@ I attended Colorado State University in undergraduate, and majored in Biology wi
 *   Microsoft Suite: Word, Excel, PowerPoint
 *   Graphic designer: Adobe Photoshop expert, student of 3D design in Blender
 
+## Courses
 
+*   Computer Organization, Discrete Mathematics, Software Engineering
+*   Algorithms, Computer Vision, Simulation, Machine Learning, Robot Architectures
+*   Natural Language Processing for HRI, Human Centered Robotics, Operating Systems, Applied Machine Learning
 
 
