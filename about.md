@@ -1,10 +1,9 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
-## Welcome to another page
+## Welcome to about page
 
 _yay_
 
