@@ -13,7 +13,6 @@ I worked at the [Rocky Mountain Raptor Program](https://www.rmrp.org/) for 5 yea
 
 ### A feeding session with the elderly Golden Eagle male
 
-![](assets/eaglefront.jpg)
 ![](assets/eagleside.jpg)
 ![](assets/eaglefeed.jpg)
 
