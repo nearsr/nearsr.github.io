@@ -13,7 +13,6 @@ I worked at the [Rocky Mountain Raptor Program](https://www.rmrp.org/) for 5 yea
 
 ### A feeding session with the elderly Golden Eagle male
 
-![](assets/eaglefront.jpg)
 ![](assets/eagleside.jpg)
 ![](assets/eaglefeed.jpg)
 
@@ -51,7 +50,7 @@ Colorado is a great place to hike and adventure in the outdoors. I find that tim
 
 ### My aunt's puppy, who also gives me an excuse to go adventure outside
 
-![](assets/puppy.jpg)
+![](assets/snowduke.jpg)
 
 ## Other
 
