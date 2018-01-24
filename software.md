@@ -17,10 +17,8 @@ title: Software Projects
 ### [](#neuron)Custom Neural Network
 
 #### Summary
-#### Course
-Machine Learning, Fall 2017
 #### Skills
-Java Programming, Neural Networks, AI, Back Propagation Algorithms
+Java Programming, Machine Learning, Neural Networks, AI, Back Propagation Algorithm
 #### Code
 (Insert link to repository)
 #### Output
@@ -32,10 +30,8 @@ Java Programming, Neural Networks, AI, Back Propagation Algorithms
 
 ### [](#pepper)Pepper Robot Interface
 
-#### Course
-Robot Architectures, Independent Study, Fall 2017
 #### Skills
-Java, Robotics, Wrapper Classes, Robot Interfaces, ADE/DIARC, Naoqi API
+Java, Robot Architectures, Wrapper Classes, API Interfaces, ADE/DIARC, Naoqi API
 
 [Top](#jump-to-project)
 
@@ -44,10 +40,8 @@ Java, Robotics, Wrapper Classes, Robot Interfaces, ADE/DIARC, Naoqi API
 
 ### [](#readingRobot)Text Recognition
 
-#### Course
-Computer Vision, Fall 2017
 #### Skills
-C++, Matlab, OpenCV, Template Matching, OCR, Project management, Teamwork
+C++, Computer Vision, OpenCV, OCR, Template Matching, Project management
 
 [Top](#jump-to-project)
 
@@ -56,10 +50,8 @@ C++, Matlab, OpenCV, Template Matching, OCR, Project management, Teamwork
 
 ### [](#hologram)AR with Computer Vision
 
-#### Course
-Computer Vision, Fall 2017
 #### Skills
-Matlab, C++, OpenCV, Augmented Reality, Image Processing
+Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
 
 [Top](#jump-to-project)
 
@@ -68,8 +60,6 @@ Matlab, C++, OpenCV, Augmented Reality, Image Processing
 
 ### [](#cards)Card Game Players
 
-#### Course
-Simulation, Fall 2017
 #### Skills
 Java, Simulation, Monte Carlo, Sorting Algorithms, Random Variate Generation
 
@@ -81,8 +71,6 @@ Java, Simulation, Monte Carlo, Sorting Algorithms, Random Variate Generation
 
 ### [](#crosswalk)Crosswalk Simulation
 
-#### Course
-Simulation, Fall 2017
 #### Skills
 Python, Simulation, Encapsulation, Complex Architectures, Teamwork
 
