@@ -16,10 +16,14 @@ title: Software Projects
 * * *
 ### [](#neuron)Custom Neural Network
 
+#### Summary
 #### Course
 Machine Learning, Fall 2017
 #### Skills
 Java Programming, Neural Networks, AI, Back Propagation Algorithms
+#### Code
+(Insert link to repository)
+#### Output
 
 [Top](#jump-to-project)
 
