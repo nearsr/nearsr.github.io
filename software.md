@@ -8,7 +8,7 @@ title: Software Projects
 | | | |
 |:-:|:-:|:-:|
 | [![Programming a neural network from scratch](assets/neuron.png)](#neuron) <br> Custom Neural Network| [![](assets/pepper.png)](#pepper) <br> Pepper Robot Interface| [![](assets/readingRobot.png)](#readingRobot) <br> Text Recognition  |
-| [![](assets/hologram.png)](#hologram) <br> AR with Computer Vision| [![](assets/cards.png)](#cards) <br> Card Game Players| [![](assets/crosswalk.png)](#crosswalk) <br> Crosswalk Simulation |
+| [![](assets/hologram.png)](#hologram) <br> AR with Computer Vision| [![](assets/cards.png)](#cards) <br> Card Game Players| [![](assets/crosswalk.png)](#crosswalk-simulation) <br> Crosswalk Simulation |
 
 
 
@@ -56,5 +56,12 @@ u
 ### [](#cards)Card Game Players
 
 ### [](#crosswalk)Crosswalk Simulation
+
+u
+
+
+u
+
+u
 
 [Top](#top)
