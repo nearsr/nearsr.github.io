@@ -13,113 +13,74 @@ title: Software Projects
 
 
 
+* * *
+### [](#neuron)Custom Neural Network
+
+#### Course
+Machine Learning, Fall 2017
+#### Skills
+Java Programming, Neural Networks, AI, Back Propagation Algorithms
+
+[Top](#jump-to-project)
 
 
 * * *
-### [](#neuron)Custom Neural Network
-u
-
-u
-
-u
-
-u
-
-u
-
-[Top](#jump-to-project)
 
 ### [](#pepper)Pepper Robot Interface
-u
 
-u
-
-u
-
-u
+#### Course
+Robot Architectures, Independent Study, Fall 2017
+#### Skills
+Java, Robotics, Wrapper Classes, Robot Interfaces, ADE/DIARC, Naoqi API
 
 [Top](#jump-to-project)
+
+
+* * *
 
 ### [](#readingRobot)Text Recognition
 
-u
-u
-u
+#### Course
+Computer Vision, Fall 2017
+#### Skills
+C++, Matlab, OpenCV, Template Matching, OCR, Project management, Teamwork
 
-u
-
-u
-u
 [Top](#jump-to-project)
+
+
+* * *
 
 ### [](#hologram)AR with Computer Vision
 
-u
-
-u
-
-u
-
-
-u
-
-
-u
+#### Course
+Computer Vision, Fall 2017
+#### Skills
+Matlab, C++, OpenCV, Augmented Reality, Image Processing
 
 [Top](#jump-to-project)
 
+
+* * *
 
 ### [](#cards)Card Game Players
 
-uuu
-u
-u
-u
-u
+#### Course
+Simulation, Fall 2017
+#### Skills
+Java, Simulation, Monte Carlo, Sorting Algorithms, Random Variate Generation
 
 
-u
-
-u
-
-u
-u
 [Top](#jump-to-project)
+
+
+* * *
 
 ### [](#crosswalk)Crosswalk Simulation
 
-u
+#### Course
+Simulation, Fall 2017
+#### Skills
+Python, Simulation, Encapsulation, Complex Architectures, Teamwork
 
-
-u
-u
-u
-u
-u
-u
-u
-u
-u
-
-u
-u
-
-
-u
-
-
-u
-
-u
-
-
-u
-
-u
-
-u
-
-u
-byuuu
 
 [Top](#jump-to-project)
