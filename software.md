@@ -25,7 +25,7 @@ Java Programming, Machine Learning, Neural Networks, AI, Back Propagation Algori
 #### Output
 Example output for one training cycle:
 
-'''
+```
 ...
 
 Input 2: x[0] = 0.0; x[1] = 1.0
@@ -52,7 +52,7 @@ Allowing sunglasses: true (image training only)
 totalNum 0 num to use for train 0 num for check 0
 Validations correct: 4 Total number of validations: 4
 % of validations correct: 1.0
-'''
+```
 [Top](#jump-to-project)
 * * *
 
