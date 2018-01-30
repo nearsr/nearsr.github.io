@@ -21,7 +21,7 @@ I created a neural network from scratch, coding in Java after starting from noth
 #### Skills
 Java Programming, Machine Learning, Neural Networks, AI, Back Propagation Algorithm
 #### Code
-![](giticon.png)[GitHub Link](https://github.com/nearsr/NeuralNetwork)
+![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/NeuralNetwork)
 #### Output
 
 [Top](#jump-to-project)
