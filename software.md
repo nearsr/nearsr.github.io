@@ -68,8 +68,14 @@ Java, Robot Architectures, Wrapper Classes, API Interfaces, ADE/DIARC, Naoqi API
 
 ### [](#readingRobot)Text Recognition
 
+#### Summary
+Using skills acquired over a semester of learning Computer Vision techniques, we created a final project that recognized text from a webcam feed. The computer then read the text out loud to the user. The program is limited to large cue cards as pictured below, with ARUCO markers attached. This project could be expanded to not require ARUCO markers, but their presence helps greatly simplify processing. The project was designed with the motivation of eventually teaching a robot to read cue cards out loud, and our code can certainly be extended for this application!
 #### Skills
 C++, Computer Vision, OpenCV, OCR, Template Matching, Project management
+#### Code
+![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/CompVisionFinal)
+#### Output
+
 
 [Top](#jump-to-project)
 
