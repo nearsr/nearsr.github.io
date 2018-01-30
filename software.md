@@ -108,6 +108,7 @@ Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
 ![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/DogSong)
 #### Output
 Click image to watch!
+
 [![](https://img.youtube.com/vi/oYUg2mQEeKY/0.jpg)](https://www.youtube.com/watch?v=oYUg2mQEeKY)
 
 [Top](#jump-to-project)
