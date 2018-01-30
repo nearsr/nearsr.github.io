@@ -17,10 +17,11 @@ title: Software Projects
 ### [](#neuron)Custom Neural Network
 
 #### Summary
+I created a neural network from scratch, coding in Java after starting from nothing. This was for a Machine Learning class, and allowed me to familiarize myself with ML techniques at the software level.
 #### Skills
 Java Programming, Machine Learning, Neural Networks, AI, Back Propagation Algorithm
 #### Code
-(Insert link to repository)
+[](giticon.png)[GitHub Link](https://github.com/nearsr/NeuralNetwork)
 #### Output
 
 [Top](#jump-to-project)
