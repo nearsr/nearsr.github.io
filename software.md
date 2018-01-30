@@ -111,6 +111,12 @@ Click image to watch!
 
 [![](https://img.youtube.com/vi/oYUg2mQEeKY/0.jpg)](https://www.youtube.com/watch?v=oYUg2mQEeKY)
 
+A video of another AR project of mine, which uses an ARUCO marker to
+mark the location of the door handle (yellow) and hinge (green).
+
+[![](https://img.youtube.com/vi/9ua0_SmOqjM/0.jpg)](https://www.youtube.com/watch?v=9ua0_SmOqjM)
+
+
 [Top](#jump-to-project)
 
 
