@@ -100,8 +100,14 @@ a more robust solution in practice.
 
 ### [](#hologram)AR with Computer Vision
 
+#### Summary
+Recognize concentric circles on a video using OpenCV in Matlab. Compute the transform between coordinate systems to draw a virtual moving picture over the raw video. I wanted to create a demo that captures the audience's interest, so the YouTube demo of this software features a goofy song with a sprite of a dog falling off the page (song and dog sprite (c) Toby Fox, used for educational purposes and not for profit).
 #### Skills
 Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
+#### Code
+![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/DogSong)
+#### Output
+[![](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=oYUg2mQEeKY)
 
 [Top](#jump-to-project)
 
@@ -111,7 +117,7 @@ Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
 ### [](#cards)Card Game Players
 
 #### Skills
-Java, Simulation, Monte Carlo, Sorting Algorithms, Random Variate Generation
+Java, Simulation, Monte Carlo, Statistical Analysis, Random Variate Generation
 
 
 [Top](#jump-to-project)
