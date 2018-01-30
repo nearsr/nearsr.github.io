@@ -77,16 +77,20 @@ C++, Computer Vision, OpenCV, OCR, Template Matching, Project management
 #### Output
 We trained the algorithm on the letters using simple template generation.
 OpenCV was used to find the bounding box of each letter, and sort them in the correct order.
+
 ![](assets/sortTrain.PNG)
 
 The output for the first cue card was spot on.
+
 ![](assets/camInput.PNG)
+
 ![](assets/cmdOutput.PNG)
 
 Sometimes the algorithm failed.
 Template matching is not robust to variation -
 feature matching or neural networks would provide
 a more robust solution in practice.
+
 ![](assets/goodOutput.PNG)
 
 [Top](#jump-to-project)
