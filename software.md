@@ -17,7 +17,7 @@ title: Software Projects
 ### [](#neuron)Custom Neural Network
 
 #### Summary
-I created a neural network from scratch, coding in Java after starting from nothing. This was for a Machine Learning class, and increased my familiarity with ML techniques at the software level. The neural network trains on the XOR problem with high accuracy after 1000 iterations on the training set. A framework for the categorization of images is included, but training the neural network to categorize the mood someone is in in each image (which has only one layer in addition to input and output) is very limited. Future work would extract feature components from the image rather than passing it in pixel by pixel to the neural network.
+I created a neural network from scratch, coding in Java after starting from nothing. This was for a Machine Learning class, and increased my familiarity with ML techniques at the software level. The neural network trains on the XOR problem with high accuracy after 1000 iterations on the training set. A framework for the categorization of images is included, but training the neural network to categorize the facial expression in each image is very limited (because the network only has three layers of neurons: input, hidden layer, and output). Future work would extract feature components from the image rather than passing it in pixel by pixel to the neural network.
 #### Skills
 Java Programming, Machine Learning, Neural Networks, AI, Back Propagation Algorithm
 #### Code
@@ -58,8 +58,19 @@ Validations correct: 4 Total number of validations: 4
 
 ### [](#pepper)Pepper Robot Interface
 
+#### Summary
+DIARC is a robot architecture being designed in the MirrorLab to support complex behaviors in robotic systems. ADE is the code base that implements it. Using the NaoQi API that is built into the Pepper robot, we wrote our own code to operate it. This code acted as a wrapper class that made it easy for the ADE architecture to send commands to Pepper and build more complex behaviors using the goal manager. It was an excellent exercise in complex code bases, and we have the basic functions of the robot online.
 #### Skills
 Java, Robot Architectures, Wrapper Classes, API Interfaces, ADE/DIARC, Naoqi API
+#### Code
+
+Code (c) MirrorLab in DIARC/ADE codebase. Samples of Pepper interface may be available upon request.
+
+#### Output
+
+Click image to watch!
+
+[![](https://img.youtube.com/vi/SDd-zvKxOgc/0.jpg)](https://www.youtube.com/watch?v=SDd-zvKxOgc)
 
 [Top](#jump-to-project)
 
@@ -101,7 +112,7 @@ a more robust solution in practice.
 ### [](#hologram)AR with Computer Vision
 
 #### Summary
-Recognize concentric circles on a video using OpenCV in Matlab. Compute the transform between coordinate systems to draw a virtual moving picture over the raw video. I wanted to create a demo that captures the audience's interest, so the YouTube demo of this software features a goofy song with a sprite of a dog falling off the page (song and dog sprite (c) Toby Fox, used for educational purposes and not for profit).
+I used OpenCV in Matlab to locate concentric circles on a video feed. The computer determines the necessary transformation between coordinate systems, and draws a virtual moving picture over the raw video. I wanted to create a demo that captures the audience's interest, so the YouTube demo of this software features a goofy song with a sprite of a dog falling off the page (song and dog sprite (c) Toby Fox, used for educational purposes and not for profit).
 #### Skills
 Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
 #### Code
@@ -124,8 +135,16 @@ mark the location of the door handle (yellow) and hinge (green).
 
 ### [](#cards)Card Game Players
 
+#### Summary
+I simulated two card games - War and Trash. It challenged my code architecture skills, and my ability to encapsulate everything succesfully. The program had many layers. There were objects to represent the card decks, the players, and even a wrapper class outside the simulation to run it multiple times in order to compute important values with high accuracy. We collected statistics to determine what the average number of turns were in each game, and when in the game the last "winner transition" happened (which player is ahead in terms of points). This could be used as a measure of "fun" for each game, on the assumption that the more fun game will have more winner transitions in the late game because that is more exciting. We concluded that Trash is more "fun" because War tended to go on for more turns and have a lower chance of the uderdog gaining the upper hand later in the game. Trash went on for fewer turns and had a higher likelihood that the winning and losing parties could switch places late in the game.
 #### Skills
 Java, Simulation, Monte Carlo, Statistical Analysis, Random Variate Generation
+#### Code
+![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/War_and_Trash)
+#### Output
+I compared my output, in red, to the professor's output in blue. My output was remarkably close! To ensure that the confidence intervals were what was expected based on the difference between my and the professor's results, I computed the expected values based on the gaps in the final values. The results are below. The confidence intervals for the computed values were correct based on the results output by my simulation.
+
+![](assets/cardGraph.png)
 
 
 [Top](#jump-to-project)
@@ -134,9 +153,16 @@ Java, Simulation, Monte Carlo, Statistical Analysis, Random Variate Generation
 * * *
 
 ### [](#crosswalk)Crosswalk Simulation
-
+#### Summary
+This is the most complex simulation I have built to date. It had many moving parts - pedestrians walking in both directions and cars moving across a road, both of which had to obey the traffic signs that would either delay them or allow them to pass. Velocities had to be accounted for, and so did modified departure times when a car did get delayed. The simulation's goal was to set up an environment in which different factors could be changed to see how they effected the delay of the various travelers. We calculated both pedestrian and auto delay. The simulation was analyzed under starting conditions, but any of the parameters can easily be tweaked to see how the results are effected. The simulation makes many simplifications, but a system similar to this one could be used to aid engineers in constructing roads, and deciding on traffic patterns. This was a group project that took a lot of coordination to bring to completion, but was ultimately successful!
 #### Skills
 Python, Simulation, Encapsulation, Complex Architectures, Teamwork
+#### Code
+![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/CrosswalkSIM)
+#### Output
+The professor's expected output in blue, vs. our crosswalk program's output in red. This served as a simple form of validation on our results. In reality, there is no standard bar to compare a simulation to. Instead, simulations require extensive double checking to ensure their accuracy. One method is to run sanity checks on the numbers to see if tweaking important variables leads to expected outputs. Another is to compare to real world data, and see if the simulation's output is sensible.
+
+![](assets/crosswalkGraph.png)
 
 
 [Top](#jump-to-project)
