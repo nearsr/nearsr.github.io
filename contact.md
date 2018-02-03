@@ -15,3 +15,6 @@ Email: stacia (dot) near (at) gmail (dot) com
 
 ![](assets/mirrorlabicon.png) [MirrorLab](http://mirrorlab.mines.edu/)
 
+![](assets/youtubeicon.png) [YouTube](https://www.youtube.com/channel/UCHZ-uo8HJ0QvePcs6BR177A)
+
+
