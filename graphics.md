@@ -22,5 +22,14 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 #### Tutorial source
 [![](https://img.youtube.com/vi/zHlsQSM0Pvc/0.jpg)](https://www.youtube.com/watch?v=zHlsQSM0Pvc)
 
+#### Abstract Environment
+
+![](assets/spikyMountain.png)
+
+#### Low Poly T-Rex
+
+![](assets/trex.png)
+![](assets/trexSpin.png)
+
 
 ### Character Art
