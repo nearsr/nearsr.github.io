@@ -12,14 +12,14 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 
 ![](assets/pieroSide.png)
 
-### Full render and armature
+#### Full render and armature
 ![](assets/pieroFull.png)
 
 ![](assets/pieroRig.png)
 
 ![](assets/pieroRigAndMesh.png)
 
-### Tutorial source
+#### Tutorial source
 [![](https://img.youtube.com/vi/zHlsQSM0Pvc/0.jpg)](https://www.youtube.com/watch?v=zHlsQSM0Pvc)
 
 
