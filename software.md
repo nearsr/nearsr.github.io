@@ -112,7 +112,7 @@ a more robust solution in practice.
 ### [](#hologram)AR with Computer Vision
 
 #### Summary
-Recognize concentric circles on a video using OpenCV in Matlab. Compute the transform between coordinate systems to draw a virtual moving picture over the raw video. I wanted to create a demo that captures the audience's interest, so the YouTube demo of this software features a goofy song with a sprite of a dog falling off the page (song and dog sprite (c) Toby Fox, used for educational purposes and not for profit).
+I used OpenCV in Matlab to locate concentric circles on a video feed. The computer determines the necessary transformation between coordinate systems, and draws a virtual moving picture over the raw video. I wanted to create a demo that captures the audience's interest, so the YouTube demo of this software features a goofy song with a sprite of a dog falling off the page (song and dog sprite (c) Toby Fox, used for educational purposes and not for profit).
 #### Skills
 Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
 #### Code
