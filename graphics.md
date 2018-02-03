@@ -29,7 +29,7 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 #### Low Poly T-Rex
 
 ![](assets/trex.png)
-![](assets/trexSpin.png)
+![](assets/trexSpin.gif)
 
 
 ### Character Art
