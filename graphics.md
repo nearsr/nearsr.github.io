@@ -12,8 +12,6 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 
 <img src="assets/pieroSide.png" width="600">
 
-<img src="assets/pieroCute.png" width="600">
-
 #### Full render and armature
 
 <img src="assets/pieroFull.png" width="800">
