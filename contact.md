@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+# Contact
+
 ## Contact me
 
 Email: stacia.near@gmail.com
