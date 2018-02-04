@@ -15,11 +15,10 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 <img src="assets/pieroCute.png" width="600">
 
 #### Full render and armature
-![](assets/pieroFull.png)
 
-![](assets/pieroRig.png)
-
-![](assets/pieroRigAndMesh.png)
+<img src="assets/pieroFull.png" width="800">
+<img src="assets/pieroRigAndMesh.png" width="800">
+<img src="assets/pieroRig.png" width="600">
 
 #### Tutorial source
 [![](https://img.youtube.com/vi/zHlsQSM0Pvc/0.jpg)](https://www.youtube.com/watch?v=zHlsQSM0Pvc)
