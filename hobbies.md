@@ -42,7 +42,7 @@ The Colorado School of Mines is a wonderful, rigorous university with tons of op
 
 I attended [ASU's Southwest Robotics Symposium](https://swrobotics.engineering.asu.edu/) with my lab group in 2018. Going to a campus in Arizona was an incredible experience, and we learned about a variety of novel Artificial Intelligence and Robotics techniques.
 
-####ASU Campus
+#### ASU Campus
 
 ![](assets/asu.jpg)
 
@@ -52,7 +52,7 @@ Colorado is a great place to hike and adventure in the outdoors. I find that tim
 
 ### Natural landscapes and their inhabitants
 
-![](assets/TBD.jpg)
+![](assets/kayak.jpg)
 ![](assets/mantis.jpg)
 
 ## Other
