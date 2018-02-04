@@ -70,7 +70,7 @@ Code (c) MirrorLab in DIARC/ADE codebase. Samples of Pepper interface may be ava
 
 #### Output
 
-Click image to watch!
+Click image to watch.
 
 [![](https://img.youtube.com/vi/SDd-zvKxOgc/0.jpg)](https://www.youtube.com/watch?v=SDd-zvKxOgc)
 
@@ -82,7 +82,7 @@ Click image to watch!
 ### [](#readingRobot)Text Recognition
 
 #### Summary
-Using skills acquired over a semester of learning Computer Vision techniques, we created a final project that recognized text from a webcam feed. The computer then read the text out loud to the user. The program is limited to large cue cards as pictured below, with ARUCO markers attached. This project could be expanded to not require ARUCO markers, but their presence helps greatly simplify processing. The project was designed with the motivation of eventually teaching a robot to read cue cards out loud, and our code can certainly be extended for this application!
+Using skills acquired over a semester of learning Computer Vision techniques, we created a final project that recognized text from a webcam feed. The computer then read the text out loud to the user. The program is limited to large cue cards as pictured below, with ARUCO markers attached. This project could be expanded to not require ARUCO markers, but their presence helps greatly simplify processing. The project was designed with the motivation of eventually teaching a robot to read cue cards out loud, and our code can certainly be extended for this application.
 #### Skills
 C++, Computer Vision, OpenCV, OCR, Template Matching, Project management
 #### Code
@@ -114,18 +114,13 @@ a more robust solution in practice.
 ### [](#hologram)AR with Computer Vision
 
 #### Summary
-I used OpenCV in Matlab to locate concentric circles on a video feed. The computer determines the necessary transformation between coordinate systems, and draws a virtual moving picture over the raw video. I wanted to create a demo that captures the audience's interest, so the YouTube demo of this software features a goofy song with a sprite of a dog falling off the page (song and dog sprite (c) Toby Fox, used for educational purposes and not for profit).
+I used OpenCV in Matlab to mark the location of a door handle (yellow) and hinge (green). Two ARUCO markers are discovered by the computer, which uses their pose in 3D space relative to the camera to determine where in 2D camera space the hinge and handle will appear. The program draws the colored markers based on transformations between 2D and 3D space. AR is a growing field and has many applications for assistive technologies.
 #### Skills
 Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
 #### Code
-![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/DogSong)
+(Not on GitHub)
 #### Output
-Click image to watch!
-
-[![](https://img.youtube.com/vi/oYUg2mQEeKY/0.jpg)](https://www.youtube.com/watch?v=oYUg2mQEeKY)
-
-A video of another AR project of mine, which uses an ARUCO marker to
-mark the location of the door handle (yellow) and hinge (green).
+Click image to watch.
 
 [![](https://img.youtube.com/vi/9ua0_SmOqjM/0.jpg)](https://www.youtube.com/watch?v=9ua0_SmOqjM)
 
