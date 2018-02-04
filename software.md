@@ -139,7 +139,7 @@ Java, Simulation, Monte Carlo, Statistical Analysis, Random Variate Generation
 #### Code
 ![](assets/giticon.png)[GitHub Link](https://github.com/nearsr/War_and_Trash)
 #### Output
-I compared my output, in red, to the professor's output in blue. My output was remarkably close! To ensure that the confidence intervals were what was expected based on the difference between my and the professor's results, I computed the expected values based on the gaps in the final values. The results are below. The confidence intervals for the computed values were correct based on the results output by my simulation.
+I compared my output, in red, to the professor's output in blue. My output was remarkably close. To ensure that the confidence intervals were what was expected based on the difference between my and the professor's results, I computed the expected values based on the gaps in the final values. The results are below. The confidence intervals for the computed values were correct based on the results output by my simulation.
 
 ![](assets/cardGraph.png)
 
@@ -151,7 +151,7 @@ I compared my output, in red, to the professor's output in blue. My output was r
 
 ### [](#crosswalk)Crosswalk Simulation
 #### Summary
-This is the most complex simulation I have built to date. It had many moving parts - pedestrians walking in both directions and cars moving across a road, both of which had to obey the traffic signs that would either delay them or allow them to pass. Velocities had to be accounted for, and so did modified departure times when a car did get delayed. The simulation's goal was to set up an environment in which different factors could be changed to see how they effected the delay of the various travelers. We calculated both pedestrian and auto delay. The simulation was analyzed under starting conditions, but any of the parameters can easily be tweaked to see how the results are effected. The simulation makes many simplifications, but a system similar to this one could be used to aid engineers in constructing roads, and deciding on traffic patterns. This was a group project that took a lot of coordination to bring to completion, but was ultimately successful!
+This is the most complex simulation I have built to date. It had many moving parts - pedestrians walking in both directions and cars moving across a road, both of which had to obey the traffic signs that would either delay them or allow them to pass. Velocities had to be accounted for, and so did modified departure times when a car did get delayed. The simulation's goal was to set up an environment in which different factors could be changed to see how they effected the delay of the various travelers. We calculated both pedestrian and auto delay. The simulation was analyzed under starting conditions, but any of the parameters can easily be tweaked to see how the results are effected. The simulation makes many simplifications, but a system similar to this one could be used to aid engineers in constructing roads, and deciding on traffic patterns. This was a group project that took a lot of coordination to bring to completion, but was ultimately successful.
 #### Skills
 Python, Simulation, Encapsulation, Complex Architectures, Teamwork
 #### Code
