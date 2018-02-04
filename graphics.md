@@ -33,3 +33,10 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 <img src="assets/trexSpin.gif" width="600">
 
 ### Character Art
+
+2D art has been a passion of mine for a long time. I enjoy doing character art in Adobe Photoshop, but am also interested in 2D graphic design for web interfaces and software packages.
+
+<img src="assets/hibachihelen.png" >
+<img src="assets/riju.png" >
+<img src="assets/undyneSketch.png" >
+
