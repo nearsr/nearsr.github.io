@@ -17,7 +17,7 @@ title: Software Projects
 ### [](#neuron)Custom Neural Network
 
 #### Summary
-I created a neural network from scratch, coding in Java after starting from nothing. This was for a Machine Learning class, and increased my familiarity with ML techniques at the software level. The neural network trains on the XOR problem with high accuracy after 1000 iterations on the training set. A framework for the categorization of images is included, but training the neural network to categorize the facial expression in each image is very limited (because the network only has three layers of neurons: input, hidden layer, and output). Future work would extract feature components from the image rather than passing it in pixel by pixel to the neural network.
+I created a neural network from scratch in Java. This was for a Machine Learning class, and increased my familiarity with ML techniques at the software level. The neural network trains on the XOR problem with high accuracy after 1000 iterations on the training set. A framework for the categorization of images is included, but training the neural network to categorize the facial expression in each image is very limited (because the network only has three layers of neurons: input, hidden layer, and output). Future work would extract feature components from the image rather than passing it in pixel by pixel to the neural network.
 #### Skills
 Java Programming, Machine Learning, Neural Networks, AI, Back Propagation Algorithm
 #### Code
