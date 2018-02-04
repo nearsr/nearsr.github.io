@@ -22,6 +22,6 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 
 #### Low Poly T-Rex
 
-<img src="assets/trex.png" width="600">
 <img src="assets/trexSpin.gif" width="600">
+<img src="assets/trex.png" width="600">
 
