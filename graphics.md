@@ -11,10 +11,8 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 #### Quick renders 
 
 <img src="assets/pieroSide.png" width="600">
-![](assets/pieroSide.png)
 
 <img src="assets/pieroCute.png" width="600">
-![](assets/pieroCute.png)
 
 #### Full render and armature
 ![](assets/pieroFull.png)
