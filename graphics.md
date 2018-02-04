@@ -25,12 +25,11 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 
 #### Abstract Environment
 
-![](assets/spikyMountain.png)
+<img src="assets/spikyMountain.png" width="800">
 
 #### Low Poly T-Rex
 
-![](assets/trex.png)
-![](assets/trexSpin.gif)
-
+<img src="assets/trex.png" width="600">
+<img src="assets/trexSpin.png" width="600">
 
 ### Character Art
