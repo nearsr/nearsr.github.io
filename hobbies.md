@@ -37,7 +37,7 @@ The Colorado School of Mines is a wonderful, rigorous university with tons of op
 ### Come for the robots, stay for the people
 
 ![](assets/friends2.jpg)
-![](assets/friends1.jpg)
+![](assets/TBD.jpg)
 
 ## Outdoors
 
@@ -45,12 +45,8 @@ Colorado is a great place to hike and adventure in the outdoors. I find that tim
 
 ### Natural landscapes and their inhabitants
 
-![](assets/overlook.jpg)
+![](assets/TBD.jpg)
 ![](assets/mantis.jpg)
-
-### My aunt's puppy, who also gives me an excuse to go adventure outside
-
-![](assets/snowduke.jpg)
 
 ## Other
 
@@ -59,8 +55,5 @@ As a graduate student, I find myself incredibly busy during the semester. Gettin
 My [graphic design](/graphics) hobby has a whole page dedicated to it, since it is my greatest passion outside school. I am interested in 3D art and 2D visual design. These skills will go a long way in allowing me to develop software that is usable, intuitive, and visually appealing.
 
 If you would like to learn more about my interests and skills, don't hesitate to [contact me](/contact)!
-
-
-![](assets/fondue.jpg)
 
 
