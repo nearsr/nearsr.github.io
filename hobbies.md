@@ -3,7 +3,7 @@ layout: default
 title: Hobbies
 ---
 
-# Photo Album
+# Hobbies
 
 This portion of the webpage exists so you can learn a little bit more about me, and the things I enjoy outside of my research.
 
