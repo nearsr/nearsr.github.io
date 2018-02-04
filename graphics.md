@@ -34,7 +34,7 @@ In addition to my work at school, I am taking classes on 3D art and animation on
 
 ### Character Art
 
-2D art has been a passion of mine for a long time. I enjoy doing character art in Adobe Photoshop, but am also interested in 2D graphic design for web interfaces and software packages.
+2D art has been a passion of mine for a long time. I enjoy doing character art in Adobe Photoshop, and mixing artistic influences from around the world. I usually focus on character design, but am also interested in graphic design for web interfaces and software packages.
 
 <img src="assets/hibachihelen.png" >
 <img src="assets/riju.png" >
