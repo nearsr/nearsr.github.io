@@ -12,8 +12,8 @@ I attended Colorado State University in undergraduate, and majored in Biology wi
 
 ## Skills
 
-*   Java, Python, C++, OpenCV, Matlab
-*   Linux OS, Windows OS, MIPS Assembly Language
+*   Java, Python, C++, Matlab, MIPS Assembly Language
+*   OpenCV, Linux OS, Windows OS
 *   Visual Studio, Eclipse, Github
 *   Website design in Jekyll, and some HTML
 *   Public education (served as birds of prey rehabilitator & public educator for 5 years)
