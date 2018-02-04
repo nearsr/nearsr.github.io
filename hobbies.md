@@ -52,7 +52,7 @@ Colorado is a great place to hike and adventure in the outdoors. I find that tim
 
 ### Natural landscapes and their inhabitants
 
-![](assets/TBD.jpg)
+![](assets/kayak.jpg)
 ![](assets/mantis.jpg)
 
 ## Other
