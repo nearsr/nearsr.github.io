@@ -64,10 +64,6 @@ Validations correct: 4 Total number of validations: 4
 DIARC is a robot architecture being designed in the MirrorLab to support complex behaviors in robotic systems. ADE is the code base that implements it. Using the NaoQi API that is built into the Pepper robot, we wrote our own code to operate it. This code acted as a wrapper class that made it easy for the ADE architecture to send commands to Pepper and build more complex behaviors using the goal manager. It was an excellent exercise in complex code bases, and we have the basic functions of the robot online.
 #### Skills
 Java, Robot Architectures, Wrapper Classes, API Interfaces, ADE/DIARC, Naoqi API
-#### Code
-
-Code (c) MirrorLab in DIARC/ADE codebase. Samples of Pepper interface may be available upon request.
-
 #### Output
 
 Click image to watch.
@@ -117,8 +113,6 @@ a more robust solution in practice.
 I used OpenCV in Matlab to mark the location of a door handle (yellow) and hinge (green). Two ARUCO markers are discovered by the computer, which uses their pose in 3D space relative to the camera to determine where in 2D camera space the hinge and handle will appear. The program draws the colored markers based on transformations between 2D and 3D space. AR is a growing field and has many applications for assistive technologies.
 #### Skills
 Matlab, Computer Vision, OpenCV, Augmented Reality, Image Processing
-#### Code
-(Not on GitHub)
 #### Output
 Click image to watch.
 
