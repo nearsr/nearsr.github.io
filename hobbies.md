@@ -37,7 +37,12 @@ The Colorado School of Mines is a wonderful, rigorous university with tons of op
 ### Come for the robots, stay for the people
 
 ![](assets/friends2.jpg)
-![](assets/TBD.jpg)
+
+## Robot Conference
+
+I attended [ASU's Southwest Robotics Symposium](https://swrobotics.engineering.asu.edu/) with my lab group in 2018. Going to a campus in Arizona was an incredible experience, and we learned about a variety of novel Artificial Intelligence and Robotics techniques.
+
+![](assets/asu.jpg)
 
 ## Outdoors
 
