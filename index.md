@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)About Me
 
-<img src="assets/163038-004-084F.jpg" width="600">
+<img src="assets/163038-004-084F.jpg" width="500">
 
 I'm a master's student at the Colorado School of Mines, completing a major in Computer Science. My specialties are Machine Learning, Natural Language Processing, and Robotics. To learn more about the robotics reasearch I am doing, feel free to visit my [Software Page](/software) and the [MirrorLab](http://mirrorlab.mines.edu/people.html) website. We are developing new and exciting technologies in the field of Human Robot Interaction, and applying our discoveries to robotic systems.
 
