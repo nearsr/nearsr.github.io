@@ -7,6 +7,14 @@ title: Hobbies
 
 This portion of the webpage exists so you can learn a little bit more about me, and the things I enjoy outside of my research.
 
+## Teaching
+
+I teach introductory C++ at Colorado School of Mines. I love sharing my enthusiasm for programming with the university's sharp and hardworking undergraduates.
+
+![](assets/slide_personal.png)
+![](assets/slide_close.png)
+![](assets/slide_wide.png)
+
 ## Birds of Prey
 
 I worked at the [Rocky Mountain Raptor Program](https://www.rmrp.org/) for 5 years starting in 2010. Here is a younger me enjoying my time with the eagles and owls! Volunteering as a raptor handler and public educator is one of my most proud achievements. I really enjoyed teaching the public about birds and the spaces they live, and fundraising to help get releasable birds back to the wild. (All the birds in the pictures are non-releasable educational birds, who could not be returned to the wild because of various injuries.)
