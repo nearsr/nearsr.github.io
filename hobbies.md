@@ -12,7 +12,6 @@ This portion of the webpage exists so you can learn a little bit more about me, 
 I teach introductory C++ at Colorado School of Mines. I love sharing my enthusiasm for programming with the university's sharp and hardworking undergraduates.
 
 ![](assets/slide_personal.png)
-![](assets/slide_close.png)
 ![](assets/slide_wide.png)
 <img src="assets/slide_close.png" width="600">
 
