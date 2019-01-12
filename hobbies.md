@@ -12,10 +12,6 @@ This portion of the webpage exists so you can learn a little bit more about me, 
 I teach introductory C++ at Colorado School of Mines. I love sharing my enthusiasm for programming with the university's sharp and hardworking undergraduates.
 
 ![](assets/slide_personal.png)
-
-### The Classroom
-
-<img src="assets/slide_close.png" width="600">
 ![](assets/slide_wide.png)
 
 ## Birds of Prey
