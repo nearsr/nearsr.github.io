@@ -15,8 +15,8 @@ I teach introductory C++ at Colorado School of Mines. I love sharing my enthusia
 
 ### The Classroom
 
-![](assets/slide_wide.png)
 <img src="assets/slide_close.png" width="600">
+![](assets/slide_wide.png)
 
 ## Birds of Prey
 
