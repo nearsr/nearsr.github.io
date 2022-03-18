@@ -8,7 +8,7 @@ layout: default
 
 <img src="assets/163038-004-084F.jpg" width="500">
 
-Welcome to the student showcase website I built while getting my Master's degree at Colorado School of Mines! I'm currently employed as a Software Engineer with 3 years of on the job experience - resume is available upon request if you are interested in learning more about my professional work as well.
+Welcome to the student showcase website I built while getting my Master's degree at Colorado School of Mines! I'm currently employed as a Software Engineer with 3 years of on the job experience. My resume is available upon request if you are interested in learning more about my professional work as well.
 
 When this website was originally built, I was a Master's student at the Colorado School of Mines, completing a major in Computer Science. My specialties are Bioinformatics, Machine Learning, Natural Language Processing, and Robotics. To learn more about my robotics research, feel free to visit my [Software Page](/software) and the [MirrorLab](http://mirrorlab.mines.edu/people.html) website. The MirrorLab is a Colorado School of Mines on-campus lab that focuses on unearthing new and exciting technologies in the field of Human Robot Interaction, and applying those discoveries to robotic systems. I was a member of the MirrorLab during my Master's degree, and this experience showed me what incredible things Computer Science can accomplish.
 
