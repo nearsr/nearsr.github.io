@@ -9,7 +9,7 @@ This portion of the webpage exists so you can learn a little bit more about me, 
 
 ## Teaching
 
-I teach introductory C++ at Colorado School of Mines. I love sharing my enthusiasm for programming with the university's sharp and hardworking undergraduates.
+During my Master's degree, I taught C++ at Colorado School of Mines. I enjoyed sharing my enthusiasm for programming with the university's sharp and hardworking undergraduates.
 
 ![](assets/slide_personal.png)
 ![](assets/slide_wide.png)
@@ -30,7 +30,7 @@ I worked at the [Rocky Mountain Raptor Program](https://www.rmrp.org/) for 5 yea
 
 ## Pepper Robot
 
-The [MirrorLab](http://mirrorlab.mines.edu/) recently acquired a model of the Pepper Robot, imported from Japan. During my first semester at Mines, I programmed various interfaces to allow our lab's robot architecture to control the robot. Most recently, I have been overseeing the interface's completion. (More technically, the interface is a wrapper class that allows the MirrorLab's DIARC architecture to call the native API on the Pepper robot, allowing us to customize the robot's behavior for lab tests.)
+The [MirrorLab](http://mirrorlab.mines.edu/) conducted Human Robot interaction studies using a model of the Pepper Robot, imported from Japan. During my first semester at Mines, I programmed various interfaces to allow our lab's robot architecture to control the robot. Towards the end of my degree, I oversaw the interface's completion. (The interface was a wrapper class that allowed the MirrorLab's DIARC architecture to call the native API on the Pepper robot, allowing us to customize the robot's behavior for lab tests.)
 
 ### Hanging out with lab mates in the robot room
 
@@ -39,7 +39,7 @@ The [MirrorLab](http://mirrorlab.mines.edu/) recently acquired a model of the Pe
 
 ## Campus events
 
-The Colorado School of Mines is a wonderful, rigorous university with tons of opportunities to meet other students and attend various events. I enjoy hanging out with my friends from the university, and drawing from their incredibly diverse knowledge of computer science!
+The Colorado School of Mines was a wonderful, rigorous university with tons of opportunities to meet other students and attend various events. I enjoyed hanging out with my friends from the university, and drawing from their incredibly diverse knowledge of computer science!
 
 ### Come for the robots, stay for the people
 
@@ -64,9 +64,9 @@ Colorado is a great place to hike and adventure in the outdoors. I find that tim
 
 ## Other
 
-As a graduate student, I find myself incredibly busy during the semester. Getting out and seeing what the world has to offer outside the bubble of university helps me maintain well rounded interests. Not to mention that I will often get the most inspiration for my software projects away from the computer, where new ideas will have room to sink in.
+Life can get very busy. Getting out whenever I can and seeing what the world has to offer helps me maintain well rounded interests. Not to mention that I will often get inspiration for my software projects away from the computer, where new ideas will have room to sink in.
 
-My [graphic design](/graphics) hobby has a whole page dedicated to it, since it is my greatest passion outside school. I am interested in 3D art and 2D visual design. These skills will go a long way in allowing me to develop software that is usable, intuitive, and visually appealing.
+My [graphic design](/graphics) hobby has a whole page dedicated to it. I am interested in 3D art and 2D visual design. These skills will go a long way in allowing me to develop software that is usable, intuitive, and visually appealing.
 
 If you would like to learn more about my interests and skills, don't hesitate to [contact me](/contact)!
 
